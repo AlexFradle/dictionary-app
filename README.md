@@ -8,3 +8,4 @@
 * Run dict_gui.py
 
 ## Example
+![](example.gif)
