@@ -47,6 +47,7 @@ def word_wrapper(words: list, length: int, space_char: str) -> list:
     Wraps words for a certain length
     :param words: Words to use
     :param length: Max length of line
+    :param space_char: Character used to separate words
     :return: List of wrapped words
     """
     wrapped = []
